@@ -1,0 +1,77 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+
+/*  General classes for the page */
+.boldtext {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.centertext {
+  text-align: center;
+}
+
+
+/* Styles for the header section */
+
+
+/* Styles for the nav section */
+
+
+/* Styles for the main / sections section */
+
+
+/* Styles for the footer section */
+
+
+/* Styles for the receipt printed on the screen. */
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+tr {
+  background-color: white;
+}
+
+
+
+.lawntable {
+  width: 450px;
+  height: 600px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin: auto;
+}
+
+.lawntable .lefttext {
+  text-align: left;
+}
+
+.lawntable .righttext {
+  text-align: right;
+}
+
+.lawntable .centertext {
+  text-align: center;
+}
+
+.lawntable .yellowback {
+  background-color: yellow;
+  text-align: center;
+}
+
+.lawntable .whiteback {
+  background-color: white;
+}
