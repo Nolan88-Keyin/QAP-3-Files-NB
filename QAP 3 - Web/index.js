@@ -1,6 +1,6 @@
 // Desc: Lawncare service calculator for Mo's Lawncare Services
 // Author: Nolan Butt
-// Dates: 
+// Dates: 2025-11-19
 
 // Define required libraries
 var $ = function (id) {
@@ -133,3 +133,4 @@ document.writeln("<td colspan='3' height='70px' class=boldtext >Turning Lawns in
 document.writeln("</tr>");
 
 document.writeln("</table>");
+
